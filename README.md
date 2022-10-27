@@ -24,7 +24,7 @@ view site](https://kseniart.netlify.app)
 
 ## Developers
 
-- [Delevoper Name](https://github.com/SvirkoAlexander)
+- [SvirkoAlexander](https://github.com/SvirkoAlexander)
 
 ## License 
 
