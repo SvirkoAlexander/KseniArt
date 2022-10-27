@@ -18,11 +18,11 @@ Documentation Here
 
 ## Distribute
 
-- [
+- 👀 [
 view site](https://kseniart.netlify.app)
 
 
-## Developers
+## 💻 Developer
 
 - [SvirkoAlexander](https://github.com/SvirkoAlexander)
 
