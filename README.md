@@ -1,6 +1,15 @@
+
+## Light Theme
 <p align="center">
       <img src="fon.png" width="726">
-       <img src="fontwo.png" width="726">
+</p>
+<br>
+ 
+## Dark Theme 
+
+      
+<p align="center">
+      <img src="fontwo.png" width="726">
 </p>
 
 <p align="center">
