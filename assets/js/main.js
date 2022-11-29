@@ -60,12 +60,7 @@ let swiperBeforeafter = new Swiper(".beforeafter__container", {
   centeredSlides: true,
   clickable: true,
   grabCursor: true,
-	loop: true,
-	navigation: {
-    nextEl: ".swiper-button-next",
-    prevEl: ".swiper-button-prev",
-	},
-	
+	loop: true,	
 });
 
 /*=============== SWIPER TESTIMONIAL ===============*/
