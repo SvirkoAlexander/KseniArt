@@ -12,6 +12,13 @@
       <img src="fontwo.png" width="726">
 </p>
 
+## Other Devices
+<p align="center">
+      <img src="iphone width.png" width="300">
+</p>
+
+
+
 <p align="center">
    <img src="https://img.shields.io/badge/version-chrome-green" alt="web">
    <img src="https://img.shields.io/badge/-HTML%20%2F%20CSS-purple" alt="Game Version">
