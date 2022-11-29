@@ -35,7 +35,7 @@
 ## Запросы клиента
 
 Клиент попросил изменить тему оформления сайта с дневного на ночной вид. Для плавной прокрутки сайта я использовал scrollreveal с пользовательскими настройками. Для продукта swiper, swiper-bundle, настроив его в соответствии с общим стилем сайта.
-Для титульного листа при смене вида я добавил фильтр ccs для динамического изменения цвета при переключении с дневного на ночной режим.
+Для титульного листа при смене вида я добавил фильтр ccs для динамического изменения цвета при переключении с дневного на ночной режим. Для заказа новой картины я использовал emailjs чтобы клиент мог легко принимать новые заказы.
 
 ## Description
 
@@ -44,7 +44,7 @@ Creation and development of a full-fledged site for an artist from the city of M
 ## Requests
 
 The client asked to change the theme of the site from day to night view. For smooth scrolling of the site, I used scrollreveal with custom settings. For the product swiper, swiper-bundle by customizing it to fit the overall style of the site.
-For the title page when changing the view, I added a ccs filter to dynamically change the color when switching from day to night mode.
+For the title page when changing the view, I added a ccs filter to dynamically change the color when switching from day to night mode. To order a new painting, I used emailjs so that the client can easily accept new orders.
 
 ## View Work
 
