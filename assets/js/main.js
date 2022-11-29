@@ -32,19 +32,12 @@ navLink.forEach((n) => n.addEventListener("click", linkAction));
 /*=============== SWIPER PROJECTS ===============*/
 let swiperProjects = new Swiper(".projects__container", {
   loop: true,
-  effect: "coverflow",
   grabCursor: true,
   centeredSlides: true,
   slidesPerView: "auto",
-  coverflowEffect: {
-    rotate: 50,
-    stretch: 0,
-    depth: 100,
-    modifier: 1,
-    slideShadows: false,
-  },
-  autoHeight: true,
-  spaceBetween: 40,
+	autoHeight: true,
+	slidesPerView: 1,
+  spaceBetween: 100,
   centeredSlides: true,
   navigation: {
     nextEl: ".swiper-button-next",
@@ -67,7 +60,12 @@ let swiperBeforeafter = new Swiper(".beforeafter__container", {
   centeredSlides: true,
   clickable: true,
   grabCursor: true,
-  loop: true,
+	loop: true,
+	navigation: {
+    nextEl: ".swiper-button-next",
+    prevEl: ".swiper-button-prev",
+	},
+	
 });
 
 /*=============== SWIPER TESTIMONIAL ===============*/
@@ -81,7 +79,7 @@ let swiperTestimonial = new Swiper(".testimonial__container", {
     shadowScale: 0.94,
   },
   autoplay: {
-    delay: 3000,
+    delay: 10000,
     disableOnInteraction: false,
   },
 });
