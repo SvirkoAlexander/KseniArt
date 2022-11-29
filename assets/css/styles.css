@@ -588,13 +588,13 @@ body.dark-theme {
 .projects__container .swiper-button-prev {
   left: -2.3rem;
   top: 12rem;
-  opacity: 0%;
+  opacity: 30%;
 }
 
 .projects__container .swiper-button-next {
   right: -2.3rem;
   top: 12rem;
-  opacity: 0%;
+  opacity: 30%;
 }
 
 .projects__container .swiper-slide {
