@@ -1,11 +1,11 @@
 
-## Light Theme
+## Light Theme ☀️
 <p align="center">
       <img src="fon.png" width="726">
 </p>
 <br>
  
-## Dark Theme 
+## Dark Theme 🌚
 
       
 <p align="center">
