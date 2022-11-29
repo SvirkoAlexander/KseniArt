@@ -14,8 +14,11 @@
 
 ## Other Devices
 <p align="center">
+      <img src="ipad width.png" width="300">
       <img src="iphone width.png" width="300">
 </p>
+
+
 
 
 
