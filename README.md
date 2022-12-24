@@ -49,7 +49,7 @@ For the title page when changing the view, I added a ccs filter to dynamically c
 ## View Work
 
 - 👀 [
-view site](https://kseniart.netlify.app/)
+Просмотр работы](https://kseniart.netlify.app/)
 
 
 ## 💻 Developer
